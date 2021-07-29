@@ -1,11 +1,11 @@
 import org.junit.Test;
 
 /**
- * Project Name    : sonarqube-example
- * Developer       : Osanda Deshan
+ * Project Name    : sonarqube-jenkins Pipeline
+ * Developer       : Vishal Badgujar
  * Version         : 1.0.0
- * Date            : 8/9/2019
- * Time            : 8:59 AM
+ * Date            : 29/7/2021
+ * Time            : 11:59 AM
  * Description     :
  **/
 
