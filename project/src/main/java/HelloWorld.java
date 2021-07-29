@@ -1,9 +1,9 @@
 /**
- * Project Name    : sonarqube-example
- * Developer       : Osanda Deshan
+ * Project Name    : sonarqube-jenkin Pipeline
+ * Developer       : Vishal Badgujar
  * Version         : 1.0.0
- * Date            : 8/8/2019
- * Time            : 4:28 PM
+ * Date            : 29/07/2021
+ * Time            : 11:28 PM
  * Description     :
  **/
 
